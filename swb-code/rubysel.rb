@@ -4,7 +4,7 @@ require 'selenium-webdriver'
 #Python 2.7.10
 #Ruby 2.2.3
 
-driver = Selenium::WebDriver.for :chrome
+driver = Selenium::WebDriver.for :chrome #:firefox
 #the first step is to typically make a 'get' request
 driver.get "http://google.com"
 
