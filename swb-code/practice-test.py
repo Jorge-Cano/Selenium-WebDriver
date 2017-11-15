@@ -30,3 +30,10 @@ try:
 
 finally:
     driver.quit()
+
+
+# What is WebDriver?
+#
+# Webdriver is a set of API's are part of the Selenium Project that allow you
+# to do Native Interactions with the browser in a variety of different programming
+# languages to simulate user interactions..
