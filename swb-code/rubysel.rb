@@ -3,6 +3,7 @@ require 'selenium-webdriver'
 #Selenium 3.7.0
 #Python 2.7.10
 #Ruby 2.2.3
+#Watir 4.0, 6.8
 
 driver = Selenium::WebDriver.for :chrome #:firefox
 #the first step is to typically make a 'get' request
