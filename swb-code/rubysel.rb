@@ -1,5 +1,8 @@
 require 'rubygems'
 require 'selenium-webdriver'
+#Selenium 3.7.0
+#Python 2.7.10
+#Ruby 2.2.3
 
 driver = Selenium::WebDriver.for :firefox
 #the first step is to typically make a 'get' request
