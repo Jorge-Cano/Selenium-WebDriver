@@ -7,5 +7,6 @@ browser.text_field(title: 'Search').set 'Austin, TX!'
 browser.button(type: 'submit').click
 
 puts browser.title
-# => 'Hello World! - Google Search'
+# => 'Austin, TX! - Google Search'
+
 browser.quit
