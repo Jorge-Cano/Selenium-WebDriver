@@ -31,7 +31,7 @@ i=0
 for listitem in lists:
     print (listitem)
     i=i+1
-    if(i>10);
+    if(i>10):
         break
 
 #close the browser window
